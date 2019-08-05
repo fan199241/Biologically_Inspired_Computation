@@ -1,0 +1,2 @@
+# Biologically_Inspired_Computation
+Courseworks for Biologically Inspired Computation course
