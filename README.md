@@ -11,5 +11,5 @@ The basic architecture of a learning algorithm is built to train an Artificial N
 3) Using an optimisation algorithm to tune the parameters. In this case, the gradient descent algorithm.
 
 Dataset:
-Training set: trainCats.h5
-Test set: testCats.h5
+1) Training set: trainCats.h5
+2) Test set: testCats.h5
