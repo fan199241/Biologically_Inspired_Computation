@@ -1,5 +1,5 @@
 # Biologically_Inspired_Computation
-Courseworks for Biologically Inspired Computation course.
+Courseworks for Biologically Inspired Computation course in Heriot-Watt University.
 
 Coursework 1a:
 
