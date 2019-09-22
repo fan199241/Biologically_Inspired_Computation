@@ -1,7 +1,7 @@
 # Biologically_Inspired_Computation
 Courseworks for Biologically Inspired Computation course in Heriot-Watt University.
 
-Coursework 1a:
+Coursework 1a - simple neual network:
 
 To build a simple logistic regression classifier to recognise cat pictures from non-cat pictures. The basic architecture of a learning algorithm is built to train an Artificial Neural Network, including:
 1) Initialising the parameters and hyperparameters.
@@ -12,7 +12,7 @@ Dataset:
 1) Training set: trainCats.h5
 2) Test set: testCats.h5
 
-Coursework 1b:
+Coursework 1b - multi classification neural network:
 
 To extend Coursework 1a logistic regression classifier into a more complex topology using, the Fashion-MNIST dataset. The coursework also needs to build a more advanced architecture for the neural network. Specifically:
 1) Deal with a multi-class classification problem.
